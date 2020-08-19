@@ -1,5 +1,5 @@
 
 
-def introduction_with_language("name", language )
-  puts"Hi, my name is #{name} Iam learning to progeraming in #{language}. "
+def introduction_with_language(name, language)
+  puts"Hi, my name is #{name}I am learning to progeram in #{language}."
 end
