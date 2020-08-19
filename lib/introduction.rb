@@ -1,5 +1,5 @@
 
 
-def introduction_with_language(Dan, Ember.js )
-  puts"Hi, my name is #{name} Iam learning to progeraming in #{language}. "
+def introduction_with_language(name, language )
+  puts"Hi, my name is #{Dan} Iam learning to progeraming in #{Ember.js}. "
 end
